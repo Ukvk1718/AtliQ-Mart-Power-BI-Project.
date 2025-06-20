@@ -82,4 +82,17 @@ Power BI report is split into **four major pages**:
 
 ## 📁 File Structure
 
+| File | Description |
+|------|-------------|
+| `Business Knowledge.pdf` | Clearly Defined Metrics |
+| `AtliQ Mart.pbix` | Power BI Report File |
+| `AtliQ Mart.pdf` | Project Report  |
+| `Project_Dashboard.png` | Project dashboard image |
 
+## 🙋 About Me
+
+👋 Hi, I'm **Uddhav Kokra**, an aspiring Data Analyst passionate about solving business problems with data.
+
+📫 [LinkedIn](https://www.linkedin.com/in/uddhavkokra) | [GitHub](https://github.com/Ukvk1718)
+
+---
