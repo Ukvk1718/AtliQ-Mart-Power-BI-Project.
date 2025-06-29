@@ -88,6 +88,7 @@ Power BI report is split into **four major pages**:
 | `AtliQ Mart.pbix` | Power BI Report File |
 | `AtliQ Mart.pdf` | Project Report  |
 | `Project_Dashboard.png` | Project dashboard image |
+| `AtliQ Mart – Supply Chain Performance Presentation.pdf` | 'Project Story and Insights' |
 
 ## 🙋 About Me
 
